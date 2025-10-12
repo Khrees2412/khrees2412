@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 What I’m Currently Building  
-- **💳 [Debyth](#)** – A direct debit protocol for **USDC/USDT** on **Solana** and **Base**, enabling automated recurring crypto payments.  
+- **💳 [Debyth](https://debyth.com)** – A direct debit protocol for **USDC/USDT** on **Solana** and **Base**, enabling automated recurring crypto payments.  
 
 ---
 
@@ -36,7 +36,7 @@
 ### 📫 Connect  
 <p align="left">
   <a href="https://twitter.com/delightfulcodes" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/christian-xxxx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ndu-christian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-Coming%20Soon-9cf?style=flat&logo=google-chrome" /></a>
 </p>
 
