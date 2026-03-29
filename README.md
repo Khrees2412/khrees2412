@@ -1,53 +1,78 @@
-<h1 align="center">Hi there 👋, I'm Christian</h1>
-<h3 align="center">Software Engineer | Rust • Solana • AI • Web3</h3>
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║         coding for the future of africa              ║
+╚══════════════════════════════════════════════════════╝
+```
+
+# Christian Ndu · [@Khrees2412](https://github.com/Khrees2412)
+
+**Backend Engineer · Web3 Builder · DevRel**  
+🇳🇬 Lagos, Nigeria
+
+[![Email](https://img.shields.io/badge/email-reach%20me-EA4335?style=flat-square&logo=gmail)](mailto:christianndu@gmail.com)
+
+</div>
 
 ---
 
-### 🚀 What I’m Currently Building  
-- **💳 [Debyth](https://debyth.com)** – A direct debit protocol for **USDC/USDT** on **Solana** and **Base**, enabling automated recurring crypto payments.  
+## 🔭 What I'm Building
+
+### 💳 [Debyth](https://github.com/Khrees2412/debyth) — Programmable Payments Infrastructure
+> *Multi-chain direct debit & mandate engine for the real world*
+
+A programmable mandate/direct debit engine at the core. Built for agentic payments and the Africa-plus-crypto intersection.
+
+`Rust` · `Anchor` · `Solidity` · `Foundry` · `TypeScript` · `Bun`
 
 ---
 
-### 🧠 What I’m Focused On  
-- 🦀 **Rust + Solana (Anchor)** — mastering internals, contributing to open-source protocols.  
-- 🤖 **AI Infrastructure** — building practical developer tools for training and managing LLMs on user data.  
-- 🧱 **Systems that last** — stable, secure, and grounded in sound engineering principles.  
+### 🤖 [Autoply](https://github.com/Khrees2412/autoply) — Job Application Automation CLI
+> *Apply smarter, not harder*
+
+A CLI and extension tool that automates the grunt work of job applications — scrapes listings, tailors resumes, fills forms, tracks status. 
+
+`TypeScript` · `Bun` · `CLI`
 
 ---
 
-### 🛠️ Tech Stack  
-| Category | Tools & Languages |
-|-----------|------------------|
-| **Languages** | Rust · TypeScript · Go · Python · SQL |
-| **Frameworks** | Anchor · React · Next.js · FastAPI |
-| **Infrastructure** | Docker · Kubernetes · AWS · Bun · GitHub Actions |
-| **Blockchain** | Solana · Base · Arbitrum (Stylus SDK) |
-| **Databases** | Postgres · Redis · MongoDB |
+### 🔍 [Grepbase](https://github.com/Khrees2412/grepbase) — Understand a Codebase, Commit by Commit
+> *Git archaeology made readable*
+
+Walk through any GitHub repository's history and understand how it evolved — commit by commit. For engineers who learn by reading code, not docs.
+
+`TypeScript` · `Bun` · `GitHub API`
 
 ---
 
-### ⚙️ What I Value  
-- Clean, maintainable code with a purpose.  
-- Deep understanding over quick hacks.  
-- Innovation grounded in tradition.  
+### 💰 [Braqqet](https://github.com/Khrees2412/braqqet) — Savings Rates Finder
+> *Find where your money works hardest*
+
+Aggregates and compares savings rates across Nigerian fintech platforms. Because your idle cash deserves better.
+
+`TypeScript` · `Bun`
 
 ---
 
-### 📫 Connect  
-<p align="left">
-  <a href="https://twitter.com/delightfulcodes" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ndu-christian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-Coming%20Soon-9cf?style=flat&logo=google-chrome" /></a>
-</p>
+## 🛠 Stack
+
+```
+Languages    Go · TypeScript · Rust · Solidity
+Runtimes     Bun
+Blockchain   Solana (Anchor) · Base (Foundry/Forge)
+Backend      REST · Event-driven · CQRS patterns
+Infra        Cloudflare · Railway · Vercel
+```
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khrees2412&show_icons=true&theme=tokyonight&hide_border=true" alt="Christian's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khrees2412&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khrees2412&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9)
+
+</div>
 
 ---
-
-> “Write code that outlives you. Tools fade, principles don’t.”  
