@@ -19,10 +19,11 @@
 
 ## 🔭 What I'm Building
 
-### 💳 [Debyth](https://github.com/Khrees2412/debyth) — Programmable Payments Infrastructure
+### 💳 [Debyth](https://github.com/debyth-inc/debyth-svm) — Programmable Payments Infrastructure
 > *Multi-chain direct debit & mandate engine for the real world*
 
 A programmable mandate/direct debit engine at the core. Built for agentic payments and the Africa-plus-crypto intersection.
+[EVM](https://github.com/debyth-inc/debyth-evm)
 
 `Rust` · `Anchor` · `Solidity` · `Foundry` · `TypeScript` · `Bun`
 
@@ -46,12 +47,6 @@ Walk through any GitHub repository's history and understand how it evolved — c
 
 ---
 
-### 💰 [Braqqet](https://github.com/Khrees2412/braqqet) — Savings Rates Finder
-> *Find where your money works hardest*
-
-Aggregates and compares savings rates across Nigerian fintech platforms. Because your idle cash deserves better.
-
-`TypeScript` · `Bun`
 
 ---
 
@@ -59,20 +54,11 @@ Aggregates and compares savings rates across Nigerian fintech platforms. Because
 
 ```
 Languages    Go · TypeScript · Rust · Solidity
-Runtimes     Bun
+Runtimes     Bun, Node
 Blockchain   Solana (Anchor) · Base (Foundry/Forge)
 Backend      REST · Event-driven · CQRS patterns
-Infra        Cloudflare · Railway · Vercel
+Infra        Cloudflare · Render · Vercel
+Database     PostgreSQL, MongoDB, SQLite, D1, KV
 ```
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Khrees2412&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=C9D1D9)
-
-</div>
 
 ---
